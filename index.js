@@ -7,7 +7,7 @@ const client = new Client({
 });
 
 // Bot login
-client.login('MTMwNjY3Nzg5MjM0Nzk5MDAxNg.G7qysL.NqE86KkDdgs7PY1JAhuhkkolcmkaYhIdwQ_YPk');
+client.login('');
 
 // Command: Add Workout
 client.on('messageCreate', async (message) => {
