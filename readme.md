@@ -23,8 +23,8 @@ This is a simple Discord bot built using the `discord.js` library to log users' 
 Clone the repository to your local machine.
 
 ```bash
-git clone https://github.com/yourusername/discord-workout-bot.git
-cd discord-workout-bot
+git clone https://github.com/kxngHADES/Bodyweight-Clergy.git
+cd Bodyweight-Clergy
 ```
 
 ### 2. Install dependencies
